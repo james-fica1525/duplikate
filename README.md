@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add bgr hyperparameter (#9139)
