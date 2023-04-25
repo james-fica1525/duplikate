@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
