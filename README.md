@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add new YOLOv8 OBB model metrics (#7379)
