@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Update CITATION.cff with cffinit corrections (#8658)
