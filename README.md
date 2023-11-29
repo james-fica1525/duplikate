@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Update Discord and Contributing Guide URLs (#9270)
