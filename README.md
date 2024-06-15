@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Cleanup Docs languages (#7865)
