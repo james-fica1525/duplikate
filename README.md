@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Replacing Images for torchscript.md (#8596)
